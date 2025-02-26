@@ -7,4 +7,5 @@
 5) Train model using YOLO v5, DetectPro2, TFOD2x
 6) Model evaluation - training losses, box losses,
 7) Predictions - image level prediction and real time prediction
-8) Deployment - Cloud or CI CD 
+8) Deployment - Cloud or CI CD - Jenkins
+9) Amazon s3
