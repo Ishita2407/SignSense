@@ -9,3 +9,9 @@
 7) Predictions - image level prediction and real time prediction
 8) Deployment - Cloud or CI CD - Jenkins
 9) Amazon s3
+
+
+
+Tools, Libraries used:
+FLask
+Docker
